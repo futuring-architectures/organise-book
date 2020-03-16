@@ -1,4 +1,4 @@
-# Phase 1: naming the scope and goals
+# Phase 1: define the challenge
 
 ## Determine the constrained role 
 
@@ -58,10 +58,33 @@ With our 2 Year Goal in mind we come up with the following three Sprint Question
 * “Can we convince Guests to become Hosts?” 
 * “Can we offer supporting services to Guests that make them stay on our platform?”
 
-Before proceeding to the next exercises and to close of this phase, take a moment with the group to invoke some creativity and help from the outside. For this we use the Lightning Demos exercise:
+## Map Drawing and Target Setting
 
-> **Exercise Lightning Demos \(10 + 2\*participants mins\)**  
-> Draw inspiration from other solutions on how to solve the Sprint Questions.   
-> - \[10 mins\] Take 10 minutes to individually look for other platforms that solve the “Can we…” Sprint Questions. These could very well be outside the industry you are looking at for your own platform. For instance, if we make a food delivery service we could look at how postal platforms or taxi platforms solve the problem of ‘delivery’. Write them on rectangular post-its with product name, the idea / learning / solution and some extra details.   
-> - \[2 minutes per person\] Present the solutions you found along with how they solve which problem.
+Now we want to find a particular part of the whole journey to focus our MVP on that we think could take away the constraints. We draw a map in this phase to visualize the journey of the constrained role and agree on the specific area of the journey that is to be the scope of our MVP, which also makes sure thate we all have the same picture in our heads. Below we see the basic outline.
+
+![](../.gitbook/assets/image%20%2813%29.png)
+
+The left arrow contains the role, while the blocks on the right contains an objective based on the 2 Year Goal. In the middle, we will add blocks connected by arrows that describe the process towards to objectives. The middle is divided into three categories: Discover, Learn, and Start. The Discover phase is where the user might find out about the thing/product/service/etc., i.e. a Facebook ad. This is a passive step. The Learn phase is where a user might learn more about it, by actively seeking it out, i.e. a marketing page. The Start phase is a user would take an action to interact with it, i.e. buy it.
+
+Work together on a whiteboard with the template below to map out the interaction on the platform from the perspective of the constraining role. Start by drawing the touchpoints and services \(green and blue boxes below\) from the Experience Map that are related to the constrained role. Then, add additional boxes to complete the picture \(red boxes below\). These boxes are either added to columns that are still empty or are used to put more emphasize on a step that was not so explicit in the Experience Map. For instance, below we add the 'Set price' in between services.
+
+After the map has been created, the Facilitator takes a coloured marker and the group decides together on an area of the map that will be the scope of the MVP. Keep in mind here the 2 Year Goal and also the touchpoints and services from the Experience Map.
+
+> **Exercise Map Drawing \(? mins\)**  
+> - Draw the structure of the map, including the role names on the left and the objective on the right \(see below\).   
+> - Take a look at the touchpoints and services from the Experience Map and the direction and contents of the transactions in the Transaction Engine.   
+> - Draw blocks with the names of the touchpoints in green and blocks with services in blue. Usually, all blocks fit under the ‘Use’ category, but not always.   
+> - In red, draw additional blocks to complete the chain from role to goal \(Discover column is still often empty\).   
+> - Connect the blocks by arrows. Use the Transaction Engine for details on what transaction takes place around touchpoints.
+>
+> **Exercise Target Setting \(? mins\)  
+> -** After the map has been created, the Facilitator takes a coloured marker. Decide together on an area of the map that will be the scope of the MVP. Keep in mind here the 2 Year Goal and also the touchpoints and services from the Experience Map.
+
+Below you see the map that we came up with for our leading example. In addition to the touchpoints and services, we added some boxes in the Discover and Learn columns as they were empty. Also, we added a 'Set price' box. As we aim to provide a primary income to our Hosts, we expect that setting the price will be an important step. Then, we decide to exclude the Discover column boxes as well as the 'Book' touchpoint.
+
+![](../.gitbook/assets/image%20%285%29.png)
+
+## 
+
+
 

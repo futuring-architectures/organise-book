@@ -1,4 +1,4 @@
-# Phase 3: putting the MVP on paper
+# Phase 3: putting the selected solution on paper
 
 ## Concept Voting
 
