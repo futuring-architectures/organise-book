@@ -4,19 +4,19 @@ We apply the workshop to Airbnb to make our descriptions of the exercises more c
 
 ## The main ecosystem relationship from the Ecosystem Portrait Canvas
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 ### The touchpoints, channels and exchanges from the Transaction Engine
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 ## The challenges and services from the Innovation Engine
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 ## The journey of our main ecosystem players from the Experience Map
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 ## 
 

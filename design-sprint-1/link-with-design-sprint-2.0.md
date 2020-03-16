@@ -10,7 +10,7 @@ The original Design Sprint is used to prototype and validate products, but we ar
 
 The original Design Sprint starts from stratch. However, we already learned a lot about the ecosystem and the platform in Reveal and Position. Therefore, ‘Monday’ of the Design Sprint is adjusted to use data that is already available. It would make no sense to discover this information again.
 
-![The inputs that are provided by Position canvases.](../.gitbook/assets/image%20%285%29.png)
+![The inputs that are provided by Position canvases.](../.gitbook/assets/image%20%2815%29.png)
 
 
 

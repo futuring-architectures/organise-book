@@ -42,7 +42,7 @@ In our case, if the Host would not be constrained at all then it would be able t
 > Exercise \(20 mins\)  
 > Be optimistic and make sure to aim high. Steps: \[5 mins\] Take a look at the Innovation Engine from Position, and in particular the challenges for the constraining role to stand out. \[5 mins\] Everyone takes a block of rectangular post-its and writes down a sentence in form of “In two years’ time….” + what will happen to the ecosystem. \[10 mins\] One person at a time, stick the post-it on the wall and read it out loud. \[5 mins\] Dot vote \(1 red dot each\) on the 2 Year Goal that is most clear and inspirational. The Decider cannot vote. \[5 mins\] The Decider now decides the 2 Year Goal using a green dot.
 
-## Sprint Questions: naming the constraints
+## Naming the constraints through Sprint Questions
 
 Now that we zoomed out, we can more clearly see what could stop us getting to the 2 Year Goal. In other words, what could constrain the role? The challenges from the Innovation Engine of the Position workshop and the key relationship are of great help here, so we make sure to reuse and build upon these insights. Below you see three constraints. 
 

@@ -9,8 +9,7 @@
 * [Recap inputs from Position](design-sprint-1/recap-inputs-from-position.md)
 * [Phase 1: naming the scope and goals](design-sprint-1/design-sprint.md)
 * [Phase 2: towards multiple concepts](design-sprint-1/phase-2-towards-multiple-concepts.md)
-* [Phase 3: putting the MVP on paper](design-sprint-1/phase-3-putting-the-mvp-on-paper.md)
-* [Phase 4: creating the prototype](design-sprint-1/phase-4-creating-the-prototype.md)
-* [Phase 5: interview your users](design-sprint-1/phase-5-interview-your-users.md)
+* [Phase 3: putting the MVP on paper](design-sprint-1/phase-4-creating-the-prototype.md)
+* [Phase 4: creating and validating the prototype](design-sprint-1/phase-3-putting-the-mvp-on-paper.md)
 * [Conclusion](design-sprint-1/conclusion.md)
 
