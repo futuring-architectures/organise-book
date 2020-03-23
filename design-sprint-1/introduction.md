@@ -6,6 +6,8 @@ The goal of this workshop is to validate the platform model with a simple protot
 
 In this book, we take you on a journey and walk together past all the exercises and see how they are applied to our leading platform example Airbnb. You'll get a full explanation of the exercises to be able to directly apply it to your own context.
 
+The Platform Design Sprint is an adaption of the Design Sprint 2.0 as taught by AJ SMART. Their course is found at [https://aj-smart.teachable.com/](https://aj-smart.teachable.com/). 
+
 ## Minimum Viable Platform
 
 ![](../.gitbook/assets/image%20%2810%29.png)

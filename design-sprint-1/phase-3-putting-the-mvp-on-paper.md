@@ -51,7 +51,7 @@ Such User Test Flow is created by each participant individually, after which we 
 
 ## Storyboarding
 
-Now that we decided on a concept and detailed the steps further, we should ensure to not leave any open questions for the prototypers. It is recommended here to appoint a Volunteer that draws the story board so that the Facilitator can focus on facilitating. 
+Now that we decided on a concept and detailed the steps further, we should ensure to not leave any open questions for the prototypers. The Storyboard details the proposed solution to the platform experience of the most constrained role and gives us a means to test and validate the role's participation in the platform. It is recommended here to appoint a Volunteer that draws the story board so that the Facilitator can focus on facilitating. 
 
 > **Exercise Storyboarding \(60 mins\)**  
 > Arrange a big whiteboard and draw 8 cells on it.   

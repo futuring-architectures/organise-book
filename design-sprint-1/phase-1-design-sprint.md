@@ -2,23 +2,18 @@
 
 ## Determine the constrained role 
 
-The main relationship is formed by two roles. However, for the MVP, we want to focus on one role’s perspective. Specifically, we want to focus on the constraining role. Platforms are generally either **producer-constrained or consumer-constrained**, depending on who has more influence on the platform. For instance, Uber is a producer-constrained platform, because it’s harder to convince driver to spend their time driving around strangers in their own car and being dependent on Uber for their income than it is to get users order a taxi which they are already used to. On the other hand, OpenTable is a consumer-constrained platform because restaurants are naturally inclined to get more customers while customers have many options to take their money to. 
+The main relationship is formed by two roles. However, for the MVP, we want to focus on one role’s perspective. If you either are running this Design Sprint with a problem for a specific role in mind or previously did a Design Sprint for the other role, then continue to the next exercise with that role as the most constrained one. 
 
-What is the constraining role in your platform? 
+Otherwise we want to focus on the role that is most constrained. Remember that platforms create value by taking away friction or 'transactions costs' and making it easier for different types of roles to interact and exchange. If you have no pre-defined problem, then a rule-of-thumb is to count the number of services related to each role on the Experience Map. More services indicates that the platform offers more to that role to enable interaction. In other words, the role was most constrained before our platform came around. 
 
-> **Exercise Determining the Constrained Role \(20 mins\)**  
-> Put two blue post-its on the wall, write on them ‘producer-constrained’ and ‘consumer-constrained’.  
-> ­- \[10 mins\] Decide in your head if the platform is producer- or consumer-constrained.  
-> - ­\[5 mins\] One by one, put a red dot on one of the post-its. The Decider cannot vote.­  
-> - \[5 mins\] The Decider now decides the constraining side using a green dot.
+> **Exercise Determining the Constrained Role \(5 mins\)**  
+> If you have a specific problem in mind then pick the related role as the most constrained. Else examine the journey of both roles on the Experience Map and count the number of services involved in both. Pick the role with the most services as the most constrained role.
 
-In our case, Airbnb is a producer-constrained platform, because it’s harder to convince hosts to rent their houses to strangers than it is to get guests to knock on those doors. Therefore, we determine that **the Host is the constrained role** in our case.
-
-\(this exercise is inspired by: [https://hackernoon.com/how-to-determine-which-side-of-marketplace-model-to-charge-21f9a470160f](https://hackernoon.com/how-to-determine-which-side-of-marketplace-model-to-charge-21f9a470160f)\).
+For our Airbnb case, we just went through the Position workshop and did not do any Design Sprints yet. We count the services on the Experience Map and conclude that Hosts are the most constrained role. 
 
 ## Framing the constrained role's journey as a How Might We
 
-After determining the role that we will focus on, we set the focus for the MVP. Take a look at the journey of the constrained role on the Experience Map. We want to capture this journey in the form on an HMW \(How Might We\) question to reframe the problem that we want to solve as a question. Discussion on the HMW also helps the team align on the context.
+After determining the role that we will focus on, we set the focus for the MVP. Take a look at the journey of the constrained role on the Experience Map and also the 'starting out' services given by the Innovation Engine. We want to capture this journey in the form on an HMW \(How Might We\) question to reframe the problem that we want to solve as a question. Discussion on the HMW also helps the team align on the context.
 
 > **Exercise HMW \(40 mins\)**  
 > Thinking from the constrained role’s perspective, look at the statements in the Ecosystem Relationship Portrait related to this role. Reframe what the role achieves in its journey into a HMW question.   

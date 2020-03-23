@@ -26,14 +26,14 @@ We get started by taking a moment to inspect all previous findings and write dow
 
 ### **2. Ideas**
 
-Now we convert parts or our notes into visuals where the goal is really on quantity over quality.
+Armed with an overview of all information, we start flexing our creative muscles and convert parts or our notes into visuals. During this exercise we repeatedly pick a part of the notes that we like to explore and then draw a crude sketch of a possible solution until the time is over.
 
 > **Exercise Ideas \(20 mins\)**  
 > Repeat until the time has elapsed:  
 > **-** Select a part of your notes from the previous step and circle it.   
 > - Take an A4 and draw the challenge/problem/assumption/solution of what you circled.
 
-You could draw the step-by-step process or a scenario or scene or anything else. It does not need to be detailed or ‘done’ yet. Also, it does not need to be beautiful \(indicated by our own not-so-beatiful drawing\) as these drawings are not shown to the others.
+You could draw the step-by-step process or a scenario or scene or anything else. It does not need to be detailed or ‘done’ yet. Drawings do not need to be beautiful \(indicated by our own not-so-beatiful drawing\) as these drawings are not shown to the others. Also, the idea does not need to be clear and detailed yet. We just want many ideas.
 
 Below is one of our drawings related to the first Sprint Question. It depicts the full cycle starting with a vacant home put on Airbnb and ending with the Host receiving money and doing groceries. The thought of this idea is to set the price in such a way that the Host can cover its expenses by subletting its house.
 
@@ -41,14 +41,18 @@ Below is one of our drawings related to the first Sprint Question. It depicts th
 
 ### **3. Crazy Eights**
 
-We now have a bunch of ideas in front of us and what we want to do is a deep dive into one of those. In this exercise everyone picks the idea they like best and then explore alternative variants of that idea under extreme time pressure in an exercise called Crazy Eights.
+We now have some ideas on paper and we want to make some rapid iterations on one of these. Crazy Eights is a rapid sketching exercise that helps us to do just that. We all draw eight drawings in eight minutes. People tend to get creative under time pressure and one minute per drawing is certainly pressuring, especially if you need to do it eight times in a row.
 
 > **Exercise Crazy Eights \(10 mins\)**  
 > Go beyond. \[1 min\] Fold A4 paper 3 times in half so that you end up for 8 boxes if you unfold. \[1 min\] Choose one idea from the previous step that you like to explore further \(circle it\). \[8 mins\] Draw your ideas in eight different ways in the boxes \(1 min per drawing\).
 
+Based on our example idea above, we sketched eight different variants of setting your price. It includes a simple rule-based method and even a solution that is just a text box but also more advanced stuff such as  with artificial intelligence or using an auction model.
+
 ![](../.gitbook/assets/image%20%286%29.png)
 
-### **4. The 3 Step Concept**
+Don't be afraid of noting down silly ideas and be sure to put the 'Crazy' in Crazy Eights. Solutions do not need to be viable, we just need to get as far out of the box as possible.
+
+### 4. The 3 Step Concept
 
 The sketch that we create in this exercise represents each person's best idea drawn out in three panels, taking into account everything from the start of the workshop until the Crazy Eights drawings we just created. Up to now everyone has been drawing in private and its time to show what we all created. 
 
