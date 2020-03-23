@@ -8,7 +8,7 @@ In this book, we take you on a journey and walk together past all the exercises 
 
 ## Minimum Viable Platform
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 The goal of this workshop is not to build the whole platform. Instead, we aim for a Minimum Viable Platform \(MVP\), which is the minimum amount of organizing for the maximum amount of learning about future versions of the ecosystem. The definition is inspired by [https://medium.com/work-futures/minimum-viable-ecosystem-53ae03d43cbf](https://medium.com/work-futures/minimum-viable-ecosystem-53ae03d43cbf).
 

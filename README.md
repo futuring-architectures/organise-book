@@ -5,7 +5,7 @@ description: >-
   about your platform along the way.
 ---
 
-# Organise the MVP
+# Organise for the minimum viable platform experience
 
 NOTE: This is a work in progress, so please come back later for the full experience!
 

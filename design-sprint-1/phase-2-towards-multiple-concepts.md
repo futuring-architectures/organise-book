@@ -1,10 +1,10 @@
 # Phase 2: towards multiple solutions
 
-In the previous phase we determined which role to focus on and looked at the constraints that we want to tackle in this Sprint. Here we want to get to potential solutions for tackling the constraints. These solutions are crude candidates of our MVP.
+In the previous phase we determined which role to focus on and looked at the constraints that we want to tackle in this Sprint. We agreed on the challenge we want to solve. Here we want to get to potential solutions for tackling the constraints. These solutions are crude candidates of our MVP.
 
 ## Get the creativity flowing with Lightning Demos
 
-Before proceeding to the next exercises, take a moment with the group to invoke some creativity and get inspired by other solutions. With the Sprint Questions in mind we search the Internet for companies, platforms and product that solve a similar challenge and present our findings to the others in quick presentations called Lightning Demos.
+Before proceeding to the next exercises, take a moment with the group to invoke some creativity and get inspired by existing ideas. With the Sprint Questions in mind we search the Internet for ideas from other products and platforms, from other domains or maybe from within your own company, that solve a similar challenge. The findings are then shared with the others in quick presentations called Lightning Demos.
 
 > **Exercise Lightning Demos \(10 + 2\*participants mins\)**  
 > Draw inspiration from other solutions on how to solve the Sprint Questions.   
@@ -15,18 +15,18 @@ Before proceeding to the next exercises, take a moment with the group to invoke 
 
 Now its time to make things tangible. This whole exercise is done **together alone**, which is Design Sprint language for individually. There are four steps: Note Taking, Ideas, Crazy Eights, and creating a 3-step concept.
 
-### Note Taking
+### 1. Note Taking
 
 We get started by taking a moment to inspect all previous findings and write down what we already have. Everyone takes a piece of paper, preferably on a clipboard, and creates an overview of the 2 Year Goal, the Sprint Questions, the Map and your favourite Lightning Demos. This step is really about copying what we already have and not about coming up with new stuff.
 
 > **Exercise Note Taking \(15 mins\)**  
 > Take an A4 paper and write down the 2 Year Goal, the Sprint Questions, the Map and Target area and your favourite Lightning Demos. The remainder of the time is spent on writing down any thoughts or ideas that come up.
 
-![Our notes about the Airbnb case.](../.gitbook/assets/image%20%2811%29.png)
+![Our notes about the Airbnb case.](../.gitbook/assets/image%20%2813%29.png)
 
-### **Ideas**
+### **2. Ideas**
 
-Now we convert parts or our notes into visuals. 
+Now we convert parts or our notes into visuals where the goal is really on quantity over quality.
 
 > **Exercise Ideas \(20 mins\)**  
 > Repeat until the time has elapsed:  
@@ -37,23 +37,32 @@ You could draw the step-by-step process or a scenario or scene or anything else.
 
 Below is one of our drawings related to the first Sprint Question. It depicts the full cycle starting with a vacant home put on Airbnb and ending with the Host receiving money and doing groceries. The thought of this idea is to set the price in such a way that the Host can cover its expenses by subletting its house.
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
-### **Crazy Eights**
+### **3. Crazy Eights**
+
+We now have a bunch of ideas in front of us and what we want to do is a deep dive into one of those. In this exercise everyone picks the idea they like best and then explore alternative variants of that idea under extreme time pressure in an exercise called Crazy Eights.
 
 > **Exercise Crazy Eights \(10 mins\)**  
 > Go beyond. \[1 min\] Fold A4 paper 3 times in half so that you end up for 8 boxes if you unfold. \[1 min\] Choose one idea from the previous step that you like to explore further \(circle it\). \[8 mins\] Draw your ideas in eight different ways in the boxes \(1 min per drawing\).
 
 ![](../.gitbook/assets/image%20%286%29.png)
 
-### **3 Step Concept**
+### **4. The 3 Step Concept**
+
+The sketch that we create in this exercise represents each person's best idea drawn out in three panels, taking into account everything from the start of the workshop until the Crazy Eights drawings we just created. Up to now everyone has been drawing in private and its time to show what we all created. 
 
 > **Exercise 3 Step Concept \(30 mins\)**­  
-> Take 3 A4 pages and tape them together into a bigger paper. On each A4 you tape an A5 in the middle. They act like paper Powerpoint slides.­Draw a 3-step story of a solution that solves the target area of the map. Be sure to include solutions you found for the Sprint Questions in Crazy Eights. The drawings usually represent screens of the platform with buttons and images, but it could also be more abstract. As long as the idea is clear.­Post-its can be added for annotations and explanations.­At the end, hang all 3 Step Concepts on the wall.
->
-> The 5 Principles of the 3 Step Concept: Self-explanatory, Anonymous, Ugly is Okay, Words matter, Catchy title.
+> - Take 3 A4 pages and tape them together into a bigger paper. On each A4 you tape an A5 in the middle.  
+> - Draw a 3-step story of a solution that solves the target area of the map. ­  
+> - Post-its can be added for annotations and explanations.­  
+> - At the end, hang all 3 Step Concepts on the wall.
 
-![](../.gitbook/assets/image%20%2814%29.png)
+While creating your concept you can keep in mind the 5 principles of the 3 Step Concept: Self-explanatory, Anonymous, Ugly is Okay, Words matter, Catchy title.
 
-\*TODO ending of phase\*
+The drawings usually represent screens of the platform with buttons and images, but it could also be more abstract. As long as the idea is clear. In our case, we drew a Concept that allows a Host to set the price of its estate based on accounting and a bit of artificial intelligence. Airbnb would look into the Host's bank transaction data \(through PSD2 or other Open Banking solutions\) and extrapolate earnings of a room based on the number of days the Host wants to rent out its room. The artificial intelligence compares the expected income with the bank account expenses to come up with a suitable price that allows the Host to sustain itself.
+
+![](../.gitbook/assets/image%20%2816%29.png)
+
+At the end of this phase we have a set of Concepts, each carefully crafted by a participant. Each represents an opinionated hypothetical solution for solving the challenges at hand. 
 
