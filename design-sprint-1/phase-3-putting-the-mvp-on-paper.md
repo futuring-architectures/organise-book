@@ -1,5 +1,7 @@
 # Phase 4: creating and validating the prototype
 
+The previous three phases offered a very structured approach to get from the challenges to a concrete Storyboard of the proposed solution. In this final phase we convert the Storyboard into a working Prototype and use that to test with users. It is recommended to invite someone with experience in prototyping and interviewing. This phase does not have many structured exercises but is meant to provide you with tips and guidance that we learned in the [Design Sprint 2.0 course by AJ SMART](https://aj-smart.teachable.com/).
+
 ## Prototyping
 
 Recap the previous day and especially the Storyboard and Platform Questions. Prioritising two or three screens. Delegating and assigning tasks. One person should be the Prototyper, in charge of constructing the prototype. One person should arrange all things that could distract the others. Ensure enough snacks, coffee, lunch, etc. \[2x 15 min\] Do two stand-ups during the day. One just before lunch and one just before entering the final hour.
