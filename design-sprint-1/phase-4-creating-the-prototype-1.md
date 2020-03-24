@@ -21,13 +21,19 @@ Note that the above are just recommendations and you are free to go with any set
 
 ## Interviewing
 
-Have two participants from the previous parts do the interviews. One is Interviewer and one is Note Taker. Make interviewee feel at ease. Tell them we are not testing them, but testing the prototype.
+After the prototype has been created, we can start having interviews. For this we recruit five people from the platforms target group. Why only five interviews you ask? Jakob Nielsen found already in the nineties that the best results come from testing no more than 5 users and running as many small tests as you can afford. He summarized his findings in the graph below. More background information about the research can be found on [Nielsen's website](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/).
 
-Create a table with on the horizontal header the names of the interviewees and on the vertical headers the names of the prototype screens. Make interviewee feel at ease. Tell them we are not testing them, but testing the prototype. Follow the flow of the headers.
+![Credits: Jakob Nielsen - https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/](../.gitbook/assets/image%20%288%29.png)
 
-![](../.gitbook/assets/image%20%281%29.png)
+The interviews are preferably conducted by two participants from the previous parts, where one is the Interviewer and other is Note Taker. Be sure to make clear to the interviewees that you are not testing them, but testing the prototype. Nothing personal.
 
-Let them examine each screen and think out loud. After they are “done” with a screen, guide them towards the next screen \(they might try to click on stuff that do not work in prototype\). The Note Taker has two sets of post-its: green and yellow. Write positive or affirming statements on green and misunderstandings on yellow. After the interview, stick the post-its into the cells for the corresponding interviewee and screen. As post-its are in two colours, you can immediately see where are a lot of misunderstandings.
+Starting at the first screen, let them examine each screen and think out loud. After they indicate to be done with a screen, guide them towards the next screen \(they might try to click on stuff that do not work in prototype which breaks the experience\). Instead of a notepad, the Note Taker has two sets of post-its: green post-its for  positive or affirming statements and yellow ones for writing down misunderstandings. 
+
+The findings of the interviews can be structured by creating a table with on the horizontal header the names of the interviewees and on the vertical headers the names of the prototype screens. After the interview, stick the post-its into the cells for the corresponding interviewee and screen. As post-its are in two colours, you can immediately see where are a lot of misunderstandings.
+
+![Grid for structuring interview findings](../.gitbook/assets/image%20%281%29.png)
+
+
 
 
 

@@ -6,11 +6,11 @@ The goal of this workshop is to validate the platform model with a simple protot
 
 In this book, we take you on a journey and walk together past all the exercises and see how they are applied to our leading platform example Airbnb. You'll get a full explanation of the exercises to be able to directly apply it to your own context.
 
-The Platform Design Sprint is an adaption of the Design Sprint 2.0 as taught by AJ SMART. Their course is found at [https://aj-smart.teachable.com/](https://aj-smart.teachable.com/). 
+The Platform Design Sprint is an adaption of the Design Sprint 2.0 as taught by AJ SMART. Their course is found at [https://aj-smart.teachable.com/](https://aj-smart.teachable.com/). Our aim was to keep the Design Sprint process as unmodified as possible as this enables an experienced workshop facilitator to also be able to facilitate our variant. As such, many of the exercises along the way are the same as what they created.
 
 ## Minimum Viable Platform
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 The goal of this workshop is not to build the whole platform. Instead, we aim for a Minimum Viable Platform \(MVP\), which is the minimum amount of organizing for the maximum amount of learning about future versions of the ecosystem. The definition is inspired by [https://medium.com/work-futures/minimum-viable-ecosystem-53ae03d43cbf](https://medium.com/work-futures/minimum-viable-ecosystem-53ae03d43cbf).
 

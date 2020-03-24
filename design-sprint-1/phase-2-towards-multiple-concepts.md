@@ -22,7 +22,7 @@ We get started by taking a moment to inspect all previous findings and write dow
 > **Exercise Note Taking \(15 mins\)**  
 > Take an A4 paper and write down the 2 Year Goal, the Sprint Questions, the Map and Target area and your favourite Lightning Demos. The remainder of the time is spent on writing down any thoughts or ideas that come up.
 
-![Our notes about the Airbnb case.](../.gitbook/assets/image%20%2813%29.png)
+![Our notes about the Airbnb case.](../.gitbook/assets/image%20%2814%29.png)
 
 ### **2. Ideas**
 
@@ -37,7 +37,7 @@ You could draw the step-by-step process or a scenario or scene or anything else.
 
 Below is one of our drawings related to the first Sprint Question. It depicts the full cycle starting with a vacant home put on Airbnb and ending with the Host receiving money and doing groceries. The thought of this idea is to set the price in such a way that the Host can cover its expenses by subletting its house.
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
 ### **3. Crazy Eights**
 
@@ -66,7 +66,7 @@ While creating your concept you can keep in mind the 5 principles of the 3 Step 
 
 The drawings usually represent screens of the platform with buttons and images, but it could also be more abstract. As long as the idea is clear. In our case, we drew a Concept that allows a Host to set the price of its estate based on accounting and a bit of artificial intelligence. Airbnb would look into the Host's bank transaction data \(through PSD2 or other Open Banking solutions\) and extrapolate earnings of a room based on the number of days the Host wants to rent out its room. The artificial intelligence compares the expected income with the bank account expenses to come up with a suitable price that allows the Host to sustain itself.
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 At the end of this phase we have a set of Concepts, each carefully crafted by a participant. Each represents an opinionated hypothetical solution for solving the challenges at hand. 
 
