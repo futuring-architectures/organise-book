@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Organise for the minimum viable platform experience](README.md)
+* [Let's Organise!](README.md)
 
 ## Platform Design Sprint <a id="design-sprint-1"></a>
 
