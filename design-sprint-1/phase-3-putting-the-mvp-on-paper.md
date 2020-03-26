@@ -12,7 +12,7 @@ Humans have limited short-term memory and limited energy for decision-making, wh
 
 The above exercise is to create a heat-map that helps making the real decisions later. Its about registering interest not about making commitments, so dont be frugal with your dots. Below we see an example of dot-votes on our Concept. The team saw value in the price recommendation as well as the graph that visualizes progress towards your earning goals. Also, showing how much the Host still needs in total this year even got two dots.
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
 \*\*\*\*
 
@@ -38,7 +38,7 @@ As you can see it is finally up to the Decider to pick. What is great about the 
 
 For our Concept we came up with the flow below in which a Host selects to set the price of its room and indicates to Airbnb that this should become its primary source of income. The platform looks into the Host's bank transaction data \(through PSD2 or other Open Banking solutions\) and extrapolate earnings of a room based on the number of days the Host wants to rent out its room. The artificial intelligence compares the expected income with the bank account expenses to come up with a suitable price that allows the Host to sustain itself.
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 Such User Test Flow is created by each participant individually, after which we put all flows underneath eachother to prepare \(you guessed it\) for dot-voting a winner. In our example below it is Person 2 whose User Test Flow is selected by the Decider.
 
