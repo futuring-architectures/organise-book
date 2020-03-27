@@ -23,7 +23,7 @@ Note that the above are just recommendations and you are free to go with any set
 
 After the prototype has been created, we can start having interviews. For this we recruit five people from the platforms target group. Why only five interviews you ask? Jakob Nielsen found already in the nineties that the best results come from testing no more than 5 users and running as many small tests as you can afford. He summarized his findings in the graph below. More background information about the research can be found on [Nielsen's website](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/).
 
-![Credits: Jakob Nielsen - https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/](../.gitbook/assets/image%20%288%29.png)
+![Credits: Jakob Nielsen - https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/](../.gitbook/assets/image%20%2813%29.png)
 
 The interviews are preferably conducted by two participants from the previous parts, where one is the Interviewer and other is Note Taker. Be sure to make clear to the interviewees that you are not testing them, but testing the prototype. Nothing personal.
 
@@ -31,7 +31,7 @@ Starting at the first screen, let them examine each screen and think out loud. A
 
 The findings of the interviews can be structured by creating a table with on the horizontal header the names of the interviewees and on the vertical headers the names of the prototype screens. After the interview, stick the post-its into the cells for the corresponding interviewee and screen. As post-its are in two colours, you can immediately see where are a lot of misunderstandings.
 
-![Grid for structuring interview findings](../.gitbook/assets/image%20%281%29.png)
+![Grid for structuring interview findings](../.gitbook/assets/image%20%283%29.png)
 
 
 

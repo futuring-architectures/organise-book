@@ -56,35 +56,38 @@ Otherwise we want to focus on the role that is most constrained. Remember that p
 If the Sprint Questions do not have an obvious tendency towards one role, then a tiebreaker method is to count the number of services related to each role on the Experience Map. More services indicates that the platform offers more to that role to enable interaction. In other words, the role was most constrained before our platform came around. 
 
 > **Exercise Determining the Constrained Role \(5 mins\)**  
-> If you have a specific problem in mind then pick the related role as the most constrained. Else examine the journey of both roles on the Experience Map and count the number of services involved in both. Pick the role with the most services as the most constrained role.
+> Use one of the three rules to determine the constrained role:  
+> ****- 1 - ****If you have a specific problem in mind then pick the related role as the most constrained.   
+> - 2 - Else if the Sprint Questions are clearly more related to one role then that is your constrained role.   
+> - 3 - Otherwise examine the journey of both roles on the Experience Map and count the number of services involved in both. Pick the role with the most services as the most constrained role.
 
-For our Airbnb case, we just went through the Position workshop and did not do any Design Sprints yet. We count the services on the Experience Map and conclude that Hosts are the most constrained role. 
+For our Airbnb case, we just went through the Position workshop and did not do any Design Sprints yet, so rule 1 is not applicable. If we look at the Sprint Questions, then we see that the first is about Hosts, the second about both and the third about Guests. Based on this we conclude that there is no obvious tendency towards one role. Therefore, we resort to the tiebreaker rule number 3. We count the services on the Experience Map and conclude that **the Host is the most constrained role**. 
 
 ## Map Drawing and Target Setting
 
 Now we want to find a particular part of the whole journey to focus our MVP on that we think could take away the constraints. We draw a map in this phase to visualize the journey of the constrained role and agree on the specific area of the journey that is to be the scope of our MVP, which also makes sure thate we all have the same picture in our heads. Below we see the basic outline.
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
-The left arrow contains the role, while the blocks on the right contains an objective based on the 2 Year Goal. In the middle, we will add blocks connected by arrows that describe the process towards to objectives. The middle is divided into three categories: Discover, Learn, and Start. The Discover phase is where the user might find out about the thing/product/service/etc., i.e. a Facebook ad. This is a passive step. The Learn phase is where a user might learn more about it, by actively seeking it out, i.e. a marketing page. The Start phase is a user would take an action to interact with it, i.e. buy it.
+The left arrow contains the role, while the blocks on the right contains an objective based on the 2 Year Goal. In the middle, we will add blocks connected by arrows that describe the process towards to objectives. The middle is divided into three categories: Discover, Learn, and Start. The Discover phase is where the user might find out about the thing/product/service/etc., for example through a Facebook ad. This is a passive step. The Learn phase is where a user might learn more about it, by actively seeking it out, such as a marketing page. The Start phase is a user would take an action to interact with it and 'buy' it.
 
 Work together on a whiteboard with the template below to map out the interaction on the platform from the perspective of the constraining role. Start by drawing the touchpoints and services \(green and blue boxes below\) from the Experience Map that are related to the constrained role. Then, add additional boxes to complete the picture \(red boxes below\). These boxes are either added to columns that are still empty or are used to put more emphasize on a step that was not so explicit in the Experience Map. For instance, below we add the 'Set price' in between services.
 
 After the map has been created, the Facilitator takes a coloured marker and the group decides together on an area of the map that will be the scope of the MVP. Keep in mind here the 2 Year Goal and also the touchpoints and services from the Experience Map.
 
-> **Exercise Map Drawing \(? mins\)**  
+> **Exercise Map Drawing \(no strict time limit\)**  
 > - Draw the structure of the map, including the role names on the left and the objective on the right \(see below\).   
 > - Take a look at the touchpoints and services from the Experience Map and the direction and contents of the transactions in the Transaction Engine.   
 > - Draw blocks with the names of the touchpoints in green and blocks with services in blue. Usually, all blocks fit under the ‘Use’ category, but not always.   
 > - In red, draw additional blocks to complete the chain from role to goal \(Discover column is still often empty\).   
 > - Connect the blocks by arrows. Use the Transaction Engine for details on what transaction takes place around touchpoints.
 >
-> **Exercise Target Setting \(? mins\)  
+> **Exercise Target Setting \(no strict time limit\)  
 > -** After the map has been created, the Facilitator takes a coloured marker. Decide together on an area of the map that will be the scope of the MVP. Keep in mind here the 2 Year Goal and also the touchpoints and services from the Experience Map.
 
 Below you see the map that we came up with for our leading example. In addition to the touchpoints and services, we added some boxes in the Discover and Learn columns as they were empty. Also, we added a 'Set price' box. As we aim to provide a primary income to our Hosts, we expect that setting the price will be an important step. Then, we decide to exclude the Discover column boxes as well as the 'Book' touchpoint.
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 ## 
 
