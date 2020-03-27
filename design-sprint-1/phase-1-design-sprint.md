@@ -67,7 +67,7 @@ For our Airbnb case, we just went through the Position workshop and did not do a
 
 Now we want to find a particular part of the whole journey to focus our MVP on that we think could take away the constraints. We draw a map in this phase to visualize the journey of the constrained role and agree on the specific area of the journey that is to be the scope of our MVP, which also makes sure thate we all have the same picture in our heads. Below we see the basic outline.
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 The left arrow contains the role, while the blocks on the right contains an objective based on the 2 Year Goal. In the middle, we will add blocks connected by arrows that describe the process towards to objectives. The middle is divided into three categories: Discover, Learn, and Start. The Discover phase is where the user might find out about the thing/product/service/etc., for example through a Facebook ad. This is a passive step. The Learn phase is where a user might learn more about it, by actively seeking it out, such as a marketing page. The Start phase is a user would take an action to interact with it and 'buy' it.
 
@@ -87,7 +87,7 @@ After the map has been created, the Facilitator takes a coloured marker and the 
 
 Below you see the map that we came up with for our leading example. In addition to the touchpoints and services, we added some boxes in the Discover and Learn columns as they were empty. Also, we added a 'Set price' box. As we aim to provide a primary income to our Hosts, we expect that setting the price will be an important step. Then, we decide to exclude the Discover column boxes as well as the 'Book' touchpoint.
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 ## 
 
