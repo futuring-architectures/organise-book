@@ -1,22 +1,11 @@
 # Phase 1: agree on the challenge
 
-## Determine the constrained role 
+## How Might We facilitate interaction on the platform?
 
-The main relationship is formed by two roles. However, for the MVP, we want to focus on one role’s perspective. If you either are running this Design Sprint with a problem for a specific role in mind or previously did a Design Sprint for the other role, then continue to the next exercise with that role as the most constrained one. 
-
-Otherwise we want to focus on the role that is most constrained. Remember that platforms create value by taking away friction or 'transactions costs' and making it easier for different types of roles to interact and exchange. If you have no pre-defined problem, then a rule-of-thumb is to count the number of services related to each role on the Experience Map. More services indicates that the platform offers more to that role to enable interaction. In other words, the role was most constrained before our platform came around. 
-
-> **Exercise Determining the Constrained Role \(5 mins\)**  
-> If you have a specific problem in mind then pick the related role as the most constrained. Else examine the journey of both roles on the Experience Map and count the number of services involved in both. Pick the role with the most services as the most constrained role.
-
-For our Airbnb case, we just went through the Position workshop and did not do any Design Sprints yet. We count the services on the Experience Map and conclude that Hosts are the most constrained role. 
-
-## Framing the constrained role's journey as a How Might We
-
-After determining the role that we will focus on, we set the focus for the MVP. Take a look at the journey of the constrained role on the Experience Map and also the 'starting out' services given by the Innovation Engine. We want to capture this journey in the form on an HMW \(How Might We\) question to reframe the problem that we want to solve as a question. Discussion on the HMW also helps the team align on the context.
+The very first thing we should do is set the focus and scope for the MVP. Take a look at the statements in the middle of the Ecosystem Relationship Canvas. What brings the roles together and how might the platform facilitate the interaction. We want to capture this in the form of a HMW \(How Might We\) question to reframe the problem that we want to solve as a question. Discussion on the HMW also helps the team align on the context.
 
 > **Exercise HMW \(40 mins\)**  
-> Thinking from the constrained role’s perspective, look at the statements in the Ecosystem Relationship Portrait related to this role. Reframe what the role achieves in its journey into a HMW question.   
+> Look at the statements in the Ecosystem Relationship Portrait and reframe a key interaction from those statements into a HMW question.   
 > - \[15 mins\] Individually, write on rectangular post-its potential candidate questions for the MVP. The question always starts with "How Might We..".  
 > - \[15 mins\] Stick all post-its on a wall and then everyone calls out common themes they observe. Work together to cluster HMW’s together and add a blue post-it with the theme.   
 > - \[5 mins\] Everyone gets 2 red dots to vote on HMW’s and 4 dots for the Decider.   
@@ -27,31 +16,49 @@ _“How might we help a host to present its room to the world, set the price and
 
 ## Setting a 2 Year Goal for the constrained role
 
-The How Might We is our goal for the MVP that aims to make the constrained role less constrained. Now we need to find out what is actually constraining it. To do that, we first zoom out into the future and imagine a world in which the role is not constrained at all. What will the ideal world look like in 2 years if the constraints would not exist? 
+The How Might We is our goal for the MVP. Now we need to find out what is actually preventing us from getting there. To do that, we first zoom out into the future and imagine a world in which we'll face no obstacles at all and everything goes smooth. What will the ideal world look like in 2 years if the constraints would not exist? 
 
 > **Exercise 2 Year Goal \(20 mins\)**  
 > Be optimistic and make sure to aim high.   
-> - \[5 mins\] Take a look at the Innovation Engine from Position, and in particular the challenges for the constraining role to stand out.   
+> - \[5 mins\] Take a look at the Innovation Engine from Position, and in particular the challenges to stand out.   
 > - \[5 mins\] Everyone takes a block of rectangular post-its and writes down a sentence in form of “In two years’ time….” + what will happen to the ecosystem.   
 > - \[10 mins\] One person at a time, stick the post-it on the wall and read it out loud.   
 > - \[5 mins\] Dot vote \(1 red dot each\) on the 2 Year Goal that is most clear and inspirational. The Decider cannot vote.   
 > - \[5 mins\] The Decider now decides the 2 Year Goal using a green dot.
 
-In our case, if the Host would not be constrained at all then it would be able to make a living off Airbnb, so we set the goal as follows: in two years time we want to provide a stable primary source of income for 25% of our hosts.
+In our case, if everything goes right then Airbnb becomes such a big marketplace in 2 years that Hosts would be able to make a living off renting out their room, so we set the goal as follows: in two years time we want to provide a stable primary source of income for 25% of our hosts.
 
 ## Naming the constraints through Sprint Questions
 
-Now that we zoomed out, we can more clearly see what could stop us getting to the 2 Year Goal. In other words, what could constrain the role? The challenges from the Innovation Engine of the Position workshop and the key relationship are of great help here, so we make sure to reuse and build upon these insights. Similar to the HMW, these constraints are formulated as a question in order to invoke a more solution-oriented atmosphere in the workshop.
+Now that we zoomed out, we can more clearly see what could stop us getting to the 2 Year Goal. In other words, what constrains us? The challenges from the Innovation Engine of the Position workshop are of great help here, so we make sure to reuse and build upon these insights. Similar to the HMW, these constraints are formulated as a question in order to invoke a more solution-oriented atmosphere in the workshop.
 
 > **Exercise Sprint Questions \(35 mins\)  
-> -** \[5 mins\] For the constraining role, take a look at the Innovation Engine from Position, and in particular the challenges for this role to start out and stand firm.­  
-> - \[10 mins\] Everyone takes a block of rectangular post-its and writes down 1-3 questions  in form of “Can we...” + risky question / assumption that should be answered / validated.
+> -** \[5 mins\] Take a look at the Innovation Engine from Position, and in particular the challenges to start out and stand firm.­  
+> - \[10 mins\] Everyone takes a block of rectangular post-its and writes down 1-3 questions  in form of “Can we...” + risky question / assumption that should be answered / validated.  
+> - \[10 mins\] One person at a time, participants stick the post-it on the wall and reads it out loud.  
+> - \[5 mins\] Dot vote \(1 red dot each\) on the question that is most important to answer. The Decider cannot vote.   
+> - \[5 mins\] The three post-it’s with most dots form the top 3. Then, the Decider decides the top 1 question using a green dot. The top 3 are all preserved.
 
 With our 2 Year Goal in mind we come up with the following three Sprint Questions:
 
 * “Can we offer sufficient primary income to someone that rents out one 2-person accommodation full-time?” 
 * “Can we convince Guests to become Hosts?” 
 * “Can we offer supporting services to Guests that make them stay on our platform?”
+
+## Determine the constrained role 
+
+The main relationship is formed by two roles. However, for the MVP, we want to focus on one role’s perspective as the Design Sprint is made for products rather than platforms. A platform can be seen as multiple products \(one for each role\) that are linked to each other. Therefore, we can transform our platform experience into a prodcut by deciding upon 1 role for which we want to do this workshop. We call that role **the constrained role**.
+
+If you either are running this Design Sprint with a problem for a specific role in mind or previously did a Design Sprint for the other role, then continue to the next exercise with that role as the most constrained one. 
+
+Otherwise we want to focus on the role that is most constrained. Remember that platforms create value by taking away friction or 'transactions costs' and making it easier for different types of roles to interact and exchange. We want to pick the role with the highest transaction costs as our constrained role in this workshop. Take a look at the Sprint Questions. These are the constraints that we want to take away. Are these constraints clearly more related to one role than the other? If so, then that is your constrained role.
+
+If the Sprint Questions do not have an obvious tendency towards one role, then a tiebreaker method is to count the number of services related to each role on the Experience Map. More services indicates that the platform offers more to that role to enable interaction. In other words, the role was most constrained before our platform came around. 
+
+> **Exercise Determining the Constrained Role \(5 mins\)**  
+> If you have a specific problem in mind then pick the related role as the most constrained. Else examine the journey of both roles on the Experience Map and count the number of services involved in both. Pick the role with the most services as the most constrained role.
+
+For our Airbnb case, we just went through the Position workshop and did not do any Design Sprints yet. We count the services on the Experience Map and conclude that Hosts are the most constrained role. 
 
 ## Map Drawing and Target Setting
 

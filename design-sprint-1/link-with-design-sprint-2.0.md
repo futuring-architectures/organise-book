@@ -4,7 +4,7 @@ This workshop is based on the Design Sprint pioneered by Jake Knapp and adjusted
 
 ## 1. Platform ≠ Product
 
-The original Design Sprint is used to prototype and validate products, but we are working with platforms. However, one could see a platform described in the Experience Board as multiple products \(one for each role\) interacting in the same ecosystem and that are linked to each other. Therefore, we need to decide on 1 role for which we want to do this workshop. We do that by defining the constrained role.
+The original Design Sprint is used to prototype and validate products, but we are working with platforms. However, one could see a platform described in the Experience Board as multiple products \(one for each role\) interacting in the same ecosystem and that are linked to each other. Therefore, we need to decide on 1 role for which we want to do this workshop. We do that by selecting the constrained role just after formulating the Sprint Questions which can be seen as the constraints.
 
 ## 2. Build upon insights of preceding workshops
 
