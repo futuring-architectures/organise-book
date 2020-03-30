@@ -9,7 +9,7 @@ The Storyboard is in this phase converted into a Prototype, which is an early st
 * The Prototyper, who is in charge of constructing the prototype and delegates and assigns tasks to the others. 
 * The Supporter who should arrange all things that could distract the others, i.e, ensures that there is always enough snacks, coffee, lunch, etc.
 
-It is wise to prioritise two or three screens at first. If you start with them all at the same time then focus is too spread out. Moreover, screens often share common layout components and if you want to make a change you have to change them all. Therefore, it is better to get these right for a small set of screens and then just copy them over.  The team works quite decentralised so it is advisable to do two stand-ups of 15 minutes during the day, for instance one just before lunch and one just before entering the final hour.
+It is wise to prioritise two or three screens at first. If you start with them all at the same time then focus is too spread out. Moreover, screens often share common layout components and if you want to make a change you have to change them all. Therefore, it is better to get these right for a small set of screens and then just copy them over. The team works quite decentralised so it is advisable to do two stand-ups of 15 minutes during the day, for instance one just before lunch and one just before entering the final hour.
 
 ### Recommended tools for prototyping
 
@@ -21,7 +21,7 @@ Note that the above are just recommendations and you are free to go with any set
 
 ## Interviewing
 
-After the prototype has been created, we can start having interviews. For this we recruit five people from the platforms target group. Why only five interviews you ask? Jakob Nielsen found already in the nineties that the best results come from testing no more than 5 users and running as many small tests as you can afford. He summarized his findings in the graph below. More background information about the research can be found on [Nielsen's website](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/).
+After the prototype has been created, we can start having interviews. For this we recruit five people from the platforms target group. Why only five interviews, you ask? Jakob Nielsen found already in the nineties that the best results come from testing no more than 5 users and running as many small tests as you can afford. He summarized his findings in the graph below. More background information about the research can be found on [Nielsen's website](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/).
 
 ![Credits: Jakob Nielsen - https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/](../.gitbook/assets/image%20%2820%29.png)
 
