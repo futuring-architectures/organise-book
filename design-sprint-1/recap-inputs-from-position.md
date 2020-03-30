@@ -12,11 +12,11 @@ We apply the workshop to Airbnb to make our descriptions of the exercises more c
 
 ## The challenges and services from the Innovation Engine
 
-![](../.gitbook/assets/image%20%2837%29.png)
+![](../.gitbook/assets/image%20%2839%29.png)
 
 ## The journey of our main ecosystem players from the Experience Map
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 ## 
 
