@@ -10,5 +10,5 @@ The original Design Sprint is used to prototype and validate products, but we ar
 
 The original Design Sprint starts from stratch. However, we already learned a lot about the ecosystem and the platform in [Reveal ](https://reveal.futuring-architectures.com/)and [Position](https://position.futuring-architectures.com/). Therefore, ‘Monday’ of the Design Sprint 2.0 is adjusted to use data that is already available. It would make no sense to discover this information again.
 
-![The exercises in phase 1 and 2 and their inputs from the Position workshop.](../.gitbook/assets/image%20%2831%29.png)
+![The exercises in phase 1 and 2 and their inputs from the Position workshop.](../.gitbook/assets/image%20%2820%29.png)
 
