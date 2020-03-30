@@ -1,6 +1,6 @@
 # Phase 3: putting the selected solution on paper
 
-At the end of this phase we have a set of Concepts, each carefully crafted by a participant. Each represents an opinionated hypothetical solution for solving the challenges at hand. Ideally we create prototypes and test each of these Concepts. As that would take a bit too much effort, we instead align on 1 'winning' Concept that we then collectively work out further. This phase is all about deciding on a solution to test and work out all details needed to build the prototype.
+The previous phase left us with a set of Concepts, each carefully crafted by a participant. Each represents an opinionated hypothetical solution for solving the challenges at hand. Ideally we create prototypes and test each of these Concepts, but as that would take a bit too much effort, we instead align on 1 'winning' Concept that we then collectively work out further. This phase is all about deciding on a solution to test and work out all details needed to build the prototype.
 
 ## Concept Voting
 
@@ -10,11 +10,9 @@ Humans have limited short-term memory and limited energy for decision-making, wh
 > -** Reread your notes from the Note Taking exercise and inspect all the Concepts on the wall.   
 > - Take as _many red dots as you like_ and stick them on all parts of all concepts that you like or you think is a good way to answer the Sprint Questions.
 
-The above exercise is to create a heat-map that helps making the real decisions later. Its about registering interest not about making commitments, so dont be frugal with your dots. Below we see an example of dot-votes on our Concept. The team saw value in the price recommendation as well as the graph that visualizes progress towards your earning goals. Also, showing how much the Host still needs in total this year even got two dots.
+The above exercise is performed to create a heat-map that helps making the real decisions later. It's about registering interest and not about making commitments, so dont be frugal with your dots. Below we see an example of dot-votes on our Concept. In our case, the team saw value in the price recommendation as well as the graph that visualizes progress towards your earning goals. Also, showing how much the Host still needs in total this year even got two dots.
 
-![](../.gitbook/assets/image%20%2842%29.png)
-
-\*\*\*\*
+![](../.gitbook/assets/image%20%2835%29.png)
 
 The Facilitator now presents all Concepts with a focus on where the dots are. Tell the name of the Concept, the general idea and the parts with a lot of heat. It is recommended to appoint one Volunteer that writes down 1 – 3 sentences on rectangular post-its for each presentation that the Facilitator gives in the next task, which are added above each Concept. After explanation of a Concept, anyone who voted on this concept for a different reasons can speak up as to prevent misinterpretation.
 
@@ -32,13 +30,13 @@ As you can see it is finally up to the Decider to pick. What is great about the 
 ## User Test Flow
 
 > **Exercise User Test Flow**  
-> Everyone takes the square post-its. Look back at the ‘winning’ concept. Write 6 story steps that you think are a good way to guide a user through the solution. Tip: use verbs
+> Everyone takes the square post-its. Look back at the ‘winning’ concept. Write 6 story steps that you think are a good way to guide a user through the solution. Tip: start your sentences with verbs.
 
 ![](../.gitbook/assets/image%20%287%29.png)
 
 For our Concept we came up with the flow below in which a Host selects to set the price of its room and indicates to Airbnb that this should become its primary source of income. The platform looks into the Host's bank transaction data \(through PSD2 or other Open Banking solutions\) and extrapolate earnings of a room based on the number of days the Host wants to rent out its room. The artificial intelligence compares the expected income with the bank account expenses to come up with a suitable price that allows the Host to sustain itself.
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 Such User Test Flow is created by each participant individually, after which we put all flows underneath eachother to prepare \(you guessed it\) for dot-voting a winner. In our example below it is Person 2 whose User Test Flow is selected by the Decider.
 
@@ -47,7 +45,7 @@ Such User Test Flow is created by each participant individually, after which we 
 > - Participants stand up in turns and read out their post-its and stick them on the grid.   
 > - Every participant votes on the row they think is clearest using a red dot. The Decider makes the final decision using the green dot.
 
-![](../.gitbook/assets/image%20%2843%29.png)
+![](../.gitbook/assets/image%20%2845%29.png)
 
 ## Storyboarding
 
@@ -65,7 +63,7 @@ First we take our post-its from the User Test Flow and put them in the cells whe
 
 After working collectively for the past hour we arrived at the Storyboard below. As you can see, it is really as detailed as web application screens would be including all buttons. We also added the mouse pointer to indicate what part of the screen is clicked to jump to the next screen.
 
-![The Storyboard of our Airbnb case](../.gitbook/assets/new-doc-2020-03-23-15.03.25_1-002.jpg)
+![The Storyboard of our Airbnb case.](../.gitbook/assets/image%20%2848%29.png)
 
 The Storyboard tells the tale of a Host that wants to set the price of its rental house in such a way as to provide a primary source of income. Airbnb requests insight in the Host's transaction data to estimate the expenses that should be covered by the rental income. After asking for additional information, the Host is presented with a recommended price. Creating a prototype of this Storyboard enables us to test various hypotheses, such as whether a Host gives Airbnb access to its transaction. 
 

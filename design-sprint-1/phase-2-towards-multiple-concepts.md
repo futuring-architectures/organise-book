@@ -22,7 +22,7 @@ We get started by taking a moment to inspect all previous findings and write dow
 > **Exercise Note Taking \(15 mins\)**  
 > Take an A4 paper and write down the 2 Year Goal, the Sprint Questions, the Map and Target area and your favourite Lightning Demos. The remainder of the time is spent on writing down any thoughts or ideas that come up.
 
-![Our notes about the Airbnb case.](../.gitbook/assets/image%20%2831%29.png)
+![Our notes about the Airbnb case.](../.gitbook/assets/image%20%2832%29.png)
 
 ### **2. Ideas**
 
