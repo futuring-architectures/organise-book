@@ -1,8 +1,8 @@
 # Phase 2: towards multiple solutions
 
-In the previous phase we determined which role to focus on and looked at the constraints that we want to tackle in this Sprint. We agreed on the challenge we want to solve. Here we want to get to potential solutions for tackling the constraints. These solutions are crude candidates of our MVP.
+In the previous phase we determined which constraints we want to tackle in this Sprint and what role to focus on. We agreed on the challenge we want to solve. Here we want to get to potential solutions for tackling the constraints. These solutions are crude candidates of our MVP.
 
-## Get the creativity flowing with Lightning Demos
+## Get inspired with Lightning Demos
 
 Before proceeding to the next exercises, take a moment with the group to invoke some creativity and get inspired by existing ideas. With the Sprint Questions in mind we search the Internet for ideas from other products and platforms, from other domains or maybe from within your own company, that solve a similar challenge. The findings are then shared with the others in quick presentations called Lightning Demos.
 
@@ -41,10 +41,12 @@ Below is one of our drawings related to the first Sprint Question. It depicts th
 
 ### **3. Crazy Eights**
 
-We now have some ideas on paper and we want to make some rapid iterations on one of these. Crazy Eights is a rapid sketching exercise that helps us to do just that. We all draw eight drawings in eight minutes. People tend to get creative under time pressure and one minute per drawing is certainly pressuring, especially if you need to do it eight times in a row.
+We now have some ideas on paper and we want to go beyond and make some rapid iterations on one of these. Crazy Eights is a rapid sketching exercise that helps us to do just that. We all draw eight drawings in eight minutes. People tend to get creative under time pressure and one minute per drawing is certainly pressuring, especially if you need to do it eight times in a row.
 
 > **Exercise Crazy Eights \(10 mins\)**  
-> Go beyond. \[1 min\] Fold A4 paper 3 times in half so that you end up for 8 boxes if you unfold. \[1 min\] Choose one idea from the previous step that you like to explore further \(circle it\). \[8 mins\] Draw your ideas in eight different ways in the boxes \(1 min per drawing\).
+> - \[1 min\] Fold A4 paper 3 times in half so that you end up for 8 boxes if you unfold.   
+> - \[1 min\] Choose one idea from the previous step that you like to explore further \(circle it\).   
+> - \[8 mins\] Draw your ideas in eight different ways in the boxes \(1 min per drawing\).
 
 Based on our example idea above, we sketched eight different variants of setting your price. It includes a simple rule-based method and even a solution that is just a text box but also more advanced stuff such as  with artificial intelligence or using an auction model.
 
