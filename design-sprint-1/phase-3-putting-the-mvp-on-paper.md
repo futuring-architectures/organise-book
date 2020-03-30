@@ -12,7 +12,7 @@ Humans have limited short-term memory and limited energy for decision-making, wh
 
 The above exercise is to create a heat-map that helps making the real decisions later. Its about registering interest not about making commitments, so dont be frugal with your dots. Below we see an example of dot-votes on our Concept. The team saw value in the price recommendation as well as the graph that visualizes progress towards your earning goals. Also, showing how much the Host still needs in total this year even got two dots.
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 \*\*\*\*
 
@@ -34,11 +34,11 @@ As you can see it is finally up to the Decider to pick. What is great about the 
 > **Exercise User Test Flow**  
 > Everyone takes the square post-its. Look back at the ‘winning’ concept. Write 6 story steps that you think are a good way to guide a user through the solution. Tip: use verbs
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 For our Concept we came up with the flow below in which a Host selects to set the price of its room and indicates to Airbnb that this should become its primary source of income. The platform looks into the Host's bank transaction data \(through PSD2 or other Open Banking solutions\) and extrapolate earnings of a room based on the number of days the Host wants to rent out its room. The artificial intelligence compares the expected income with the bank account expenses to come up with a suitable price that allows the Host to sustain itself.
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 Such User Test Flow is created by each participant individually, after which we put all flows underneath eachother to prepare \(you guessed it\) for dot-voting a winner. In our example below it is Person 2 whose User Test Flow is selected by the Decider.
 
@@ -47,7 +47,7 @@ Such User Test Flow is created by each participant individually, after which we 
 > - Participants stand up in turns and read out their post-its and stick them on the grid.   
 > - Every participant votes on the row they think is clearest using a red dot. The Decider makes the final decision using the green dot.
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../.gitbook/assets/image%20%2843%29.png)
 
 ## Storyboarding
 
@@ -61,7 +61,7 @@ Now that we decided on a concept and detailed the steps further, we should ensur
 
 First we take our post-its from the User Test Flow and put them in the cells where we plan to draw them out. Of course there is always room to shift a bit so dont spend to much time.
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 After working collectively for the past hour we arrived at the Storyboard below. As you can see, it is really as detailed as web application screens would be including all buttons. We also added the mouse pointer to indicate what part of the screen is clicked to jump to the next screen.
 

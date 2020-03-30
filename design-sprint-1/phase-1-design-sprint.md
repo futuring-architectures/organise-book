@@ -70,7 +70,7 @@ For our Airbnb case, we just went through the [Position](https://position.futuri
 
 Now we want to find a particular part of the whole journey to focus our MVP on that we think could take away the constraints. We draw a map in this phase to visualize the journey of the constrained role and agree on the specific area of the journey that is to be the scope of our MVP, which also makes sure thate we all have the same picture in our heads. Below we see the basic outline.
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 The left arrow contains the role, while the blocks on the right contains an objective based on the 2 Year Goal. In the middle, we will add blocks connected by arrows that describe the process towards to objectives. The middle is divided into three categories: Discover, Learn, and Start. The Discover phase is where the user might find out about the thing/product/service/etc., for example through a Facebook ad. This is a passive step. The Learn phase is where a user might learn more about it, by actively seeking it out, such as a marketing page. The Start phase is a user would take an action to interact with it and 'buy' it.
 
