@@ -6,7 +6,7 @@ We apply the workshop to Airbnb to make our descriptions of the exercises more c
 
 ![](../.gitbook/assets/image%20%2817%29.png)
 
-### The touchpoints, channels and exchanges from the Transaction Engine
+## The touchpoints, channels and exchanges from the Transaction Engine
 
 ![](../.gitbook/assets/image%20%2822%29.png)
 
