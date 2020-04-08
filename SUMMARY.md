@@ -14,6 +14,5 @@
 
 ## 🤓There's more
 
-* [Glossary](theres-more/glossary.md)
 * [Community](theres-more/community.md)
 
