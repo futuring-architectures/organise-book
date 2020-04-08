@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Let's Organise!](README.md)
+* [For your toolbox](README.md)
 
 ## Platform Design Sprint <a id="design-sprint-1"></a>
 
@@ -11,4 +11,9 @@
 * [Phase 2: towards multiple solutions](design-sprint-1/phase-2-towards-multiple-concepts.md)
 * [Phase 3: putting the selected solution on paper](design-sprint-1/phase-3-putting-the-mvp-on-paper.md)
 * [Phase 4: creating and validating the prototype](design-sprint-1/phase-4-creating-the-prototype-1.md)
+
+## 🤓There's more
+
+* [Glossary](theres-more/glossary.md)
+* [Community](theres-more/community.md)
 
