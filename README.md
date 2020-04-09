@@ -1,17 +1,6 @@
 # For your toolbox
 
-📖MVP organisation   
-\| _ɛm - vi - pi_ _/ ˌɔr gə nəˈzeɪ ʃən /_
-
-{% tabs %}
-{% tab title="🅰️" %}
-: the division of work and resources required to start validating a platform's position in its ecosystem.
-{% endtab %}
-
-{% tab title="🅱️" %}
-: the tools and processes needed when aligning the organisation with its position in the ecosystem.
-{% endtab %}
-{% endtabs %}
+![](.gitbook/assets/logo-mountiantheme-map-h100.png)
 
 This is the [FAST](https://futuring-architectures.com/) manual to validating platform propositions. It will be your companion in finding a platform's ****structures and systems: for your current organisation, a strategic partnership, or a greenfield endeavour. 
 
