@@ -2,7 +2,7 @@
 
 ## How Might We facilitate interaction on the platform?
 
-The very first thing we should do is set the focus and scope for the MVP. Take a look at the statements in the middle of the [Ecosystem Relationship Canvas](recap-inputs-from-position.md#the-main-ecosystem-relationship-from-the-ecosystem-portrait-canvas). What brings the roles together and how might the platform facilitate the interaction? We want to capture this in the form of a HMW \(How Might We\) question to reframe the problem that we want to solve as a question. Discussion on the HMW also helps the team align on the context.
+The very first thing we should do is set the focus and scope for the MVP. Take a look at the statements in the middle of the [Ecosystem Relationship Portrait](recap-inputs-from-position.md#the-main-ecosystem-relationship-from-the-ecosystem-portrait-canvas). What brings the roles together and how might the platform facilitate the interaction? We want to capture this in the form of a HMW \(How Might We\) question to reframe the problem that we want to solve as a question. Discussion on the HMW also helps the team align on the context.
 
 > **Exercise HMW \(40 mins\)**  
 > Look at the statements in the [Ecosystem Relationship Portrait](recap-inputs-from-position.md#the-main-ecosystem-relationship-from-the-ecosystem-portrait-canvas) and reframe a key interaction from those statements into a HMW question.   
